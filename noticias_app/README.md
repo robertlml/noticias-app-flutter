@@ -1,4 +1,4 @@
-# noticias_app
+# noticias_app Flutter
 
 A new Flutter project.
 
